@@ -20,7 +20,7 @@ namespace Task3_21_03
         }
         private void Dance()
         {
-            Console.WriteLine("As a " + Gender + ", she also likes Вancing.");
+            Console.WriteLine("As a " + Gender + ", she also likes Dancing.");
         }
     }
 }
